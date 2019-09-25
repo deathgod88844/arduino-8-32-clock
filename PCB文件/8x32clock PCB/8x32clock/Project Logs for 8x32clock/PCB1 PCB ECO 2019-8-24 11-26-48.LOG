@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=H5OUT Pin=LED1-7
+Removed Pin From Net: NetName=H5OUT Pin=LED2-7
+Removed Pin From Net: NetName=H5OUT Pin=LED3-7
+Removed Pin From Net: NetName=H5OUT Pin=LED4-7
+Added Pin To Net: NetName=H6OUT Pin=LED1-7
+Added Pin To Net: NetName=H6OUT Pin=LED2-7
+Added Pin To Net: NetName=H6OUT Pin=LED3-7
+Added Pin To Net: NetName=H6OUT Pin=LED4-7

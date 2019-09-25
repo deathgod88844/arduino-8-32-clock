@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DATA Pin=U1-19
+Removed Pin From Net: NetName=SHCP Pin=U1-22
+Added Pin To Net: NetName=DATA Pin=H1-1
+Added Pin To Net: NetName=SHCP Pin=H1-3
+Added Pin To Net: NetName=DATA Pin=U1-16
+Added Pin To Net: NetName=SHCP Pin=U1-17
+Change Net Name : Old Net Name=SHCP New Net Name=SCLK

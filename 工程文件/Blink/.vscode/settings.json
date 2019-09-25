@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "wire.h": "c",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "random": "cpp"
+    }
+}
